@@ -1,0 +1,210 @@
+{
+  "language": "english",
+
+  "languagePage": "language page",
+
+  "elderly": "elderly",
+
+  "assistant": "caregiver",
+
+  "doctor": "doctor",
+
+  "elderlyDiscp": "Keep track of your health easily by checking your vital signs and receiving reminders for your medication.",
+
+  "assistantDiscp": "Keep an eye on your loved one's health by monitoring their vital signs in real-time and tracking their location.",
+
+  "doctorDiscp": "Provide better care for your patients by monitoring their vital signs and set safe thresholds.",
+
+  "headTitle": "Sign Up Now,",
+
+  "headDiscp": "and get instant access to our user-friendly health monitoring app.",
+
+  "nameField": "Name",
+
+  "emailField": "E-mail",
+
+  "passField": "Password",
+
+  "passConField": "Confirm Password",
+
+  "signUp": "SIGN UP",
+
+  "alreadyHaveAcc": "Already have an Account? ",
+
+  "login": "LOGIN",
+
+  "emptyName": "Please enter your name",
+
+  "emptyEmail": "Email cannot be empty",
+
+  "emtyPass": "Password cannot be empty",
+
+  "validEmail": "Please enter a valid email",
+
+  "matchinPass": "Password did not match",
+
+  "shortPass": "please enter a valid password min 6 characters",
+
+  "headTitLogin": "Welcome Back,",
+
+  "headDiscpLogin": "Keep your loved ones healthy and happy.",
+
+  "forgotPass": "Forgot Password",
+
+  "dontHaveAcc": "Don't have Account? ",
+
+  "heartRate": "Heart Rate",
+  
+  "bpm": "BPM",
+
+  "oxygenLvl": "Oxygen Level",
+
+  "noMedsLeft": "No Medication left for today",
+
+  "nextMed": "Next Medication",
+
+  "time": "Time: {time}",
+
+  "edit": "Edit",
+
+  "delete": "Delete",
+
+  "addRem": "Add Reminder",
+
+  "schedRem": "Schedule Reminder",
+
+  "enterMedName": "Enter medicine name",
+
+  "openTimePick": "Open Time Picker",
+
+  "sched": "Schedule",
+
+  "cancel": "Cancel",
+
+  "medField": "Medication name",
+
+  "remDel": "Reminder deleted",
+
+  "failDelRem": "Failed to delete reminder",
+
+  "modRem": "Modify Reminder",
+
+  "remUpdt": "Reminder updated",
+
+  "failUpdtRem": "Failed to update reminder",
+
+  "update": "Update",
+
+  "emptyMed": "Please enter a medication's name",
+
+  "remSched": "Reminder scheduled",
+
+  "failRemSched": "Failed to schedule reminder",
+
+  "assistants": "Assistants",
+
+  "doctors": "Doctors",
+
+  "entDocAsEm": "Enter Assistant's or doctor's email",
+
+  "noAsDocEmFound": "No assistant or doctor found with the provided email",
+
+  "entrEldEmail": "Enter Elderly's Email",
+  
+  "noEldFound": "no elderly found with the provided email",
+
+  "view": "view",
+
+  "spo2": "SPO2",
+
+  "eldSuccAdd": "Elder added successfully",
+
+  "noEld": "you have no elderly's yet",
+
+  "thresh1": "Threshold 1",
+
+  "thresh2": "Threshold 2",
+
+  "setNewThresh": "Set New Threshold",
+
+  "lowerBnd": "Lower Bound",
+
+  "upperBnd": "Upper Bound",
+
+  "entLowbnd": "Enter Lower Bound",
+
+  "entUpBnd": "Enter Upper Bound",
+
+  "save": "Save",
+
+  "extrhighbpm": "DANGER! Extremely high BPM has been detected for your patient: {elderName}",
+
+  "dangeralrt": "Danger Alert",
+
+  "eldloc":"Elderly location",
+
+  "extrlowbpm": "DANGER! Extremely low BPM has been detected for your patient: {elderName}",
+
+  "anombpm" : "An anomaly has been detected for your patient: {elderName}",
+
+  "threshalrt": "Threshold Alert",
+
+  "extrlowspo2": "DANGER! Extremely low SPO2 has been detected for your patient: {elderName}",
+
+  "elddel": "Elder deleted successfully.",
+
+  "eldfaildel": "Failed to delete elder. Please try again.",
+
+  "deviceid": "Device Id",
+
+  "submit": "Submit",
+
+  "err": "Error : {err}",
+
+  "devicednex": "device id does not exist.",
+
+  "locservdis": "Location services are disabled",
+
+  "locperden": "Location permission denied",
+
+  "locperdenperma": "Location permissions are permanently denied",
+
+  "callamb": "call an ambulance",
+
+  "threshspo2": "spo2 threshold",
+
+  "spo2thresh" : "spo2 threshold",
+
+  "erroc": "An error occurred",
+
+  "sendresem": "Send Reset Email",
+
+  "documnotfound": "Document does not exist on the database",
+
+  "nouserfound": "No user found for that email.",
+
+  "wrongpass": "Wrong password provided for that user.",
+
+  "otpver": "OTP is verified",
+
+  "otpinval": "Invalid OTP",
+  
+  "confirm": "Confirm",
+
+  "emailotp": "Email OTP",
+
+  "otpsent": "OTP has been sent",
+
+  "otpfail": "Oops, OTP send failed",
+
+  "slctdate": "Select Date",
+
+  "nodataavl": "No data available for the selected date.",
+
+  "welcheadtxt": "Monitor your well-being",
+
+  "welcdiscptxt": "Take charge of your health and stay connected with your loved ones.",
+
+  "medtime": "it's time to take your medication: {med}"
+
+}

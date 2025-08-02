@@ -1,0 +1,210 @@
+{
+  "language": "français",
+
+  "languagePage": "page de langues",
+
+  "elderly": "personne âgée",
+
+  "assistant": "assistant",
+
+  "doctor": "medcin",
+
+  "elderlyDiscp": "Suivez facilement votre santé en vérifiant vos signes vitaux et en recevant des rappels pour vos médicaments.",
+
+  "assistantDiscp": "Gardez un œil sur la santé de votre proche en surveillant ses signes vitaux en temps réel et en suivant sa position.",
+
+  "doctorDiscp": "Offrez de meilleurs soins à vos patients en surveillant leurs signes vitaux et en définissant des seuils de sécurité.",
+
+  "headTitle": "Inscrivez-vous maintenant,",
+
+  "headDiscp": "et obtenez un accès instantané à notre application conviviale de surveillance de la santé.",
+
+  "nameField": "Nom",
+
+  "emailField": "E-mail",
+
+  "passField": "Mot de passe",
+
+  "passConField": "Confirmer le mot de passe",
+
+  "signUp": "S'INSCRIRE",
+
+  "alreadyHaveAcc": "Vous avez déjà un compte ?",
+
+  "login": "CONNEXION",
+
+  "emptyName": "Veuillez saisir votre nom",
+
+  "emptyEmail": "L'e-mail ne peut pas être vide",
+
+  "emtyPass": "Le mot de passe ne peut pas être vide",
+
+  "validEmail": "Veuillez entrer un email valide",
+
+  "matchinPass": "Le mot de passe ne correspond pas",
+
+  "shortPass": "veuillez entrer un mot de passe valide d'au moins 6 caractères",
+
+  "headTitLogin": "Bienvenue à nouveau,",
+
+  "headDiscpLogin": "Gardez vos proches en bonne santé et heureux.",
+
+  "forgotPass": "Mot de passe oublié",
+
+  "dontHaveAcc": "Vous n'avez pas de compte ? ",
+
+  "heartRate": "Fréquence cardiaque",
+  
+  "bpm": "BPM",
+
+  "oxygenLvl": "Niveau d'oxygène",
+
+  "noMedsLeft": "Aucun médicament restant pour aujourd'hui",
+
+  "nextMed": "Prochain médicament",
+
+  "time": "Heure : {time}",
+
+  "edit": "Modifier",
+
+  "delete": "Supprimer",
+
+  "addRem": "Ajouter un rappel",
+
+  "schedRem": "Rappel de planification",
+
+  "enterMedName": "Entrez le nom du médicament",
+
+  "openTimePick": "Ouvrir le sélecteur d'heure",
+
+  "sched": "Planifier",
+
+  "cancel": "Annuler",
+
+  "medField": "Nom du médicament",
+
+  "remDel": "Rappel supprimé",
+
+  "failDelRem": "Échec de la suppression du rappel",
+
+  "modRem": "Modifier le rappel",
+
+  "remUpdt": "Rappel mis à jour",
+
+  "failUpdtRem": "Échec de la mise à jour du rappel",
+
+  "update": "Mettre à jour",
+
+  "emptyMed": "Veuillez entrer le nom d'un médicament",
+
+  "remSched": "Rappel programmé",
+
+  "failRemSched": "Échec de la planification du rappel",
+
+  "assistants": "Assistants",
+
+  "doctors": "Médecins",
+
+  "entDocAsEm": "Entrez l'e-mail de l'assistant ou du médecin",
+
+  "noAsDocEmFound": "Aucun assistant ou médecin trouvé avec l'e-mail fourni",
+
+  "entrEldEmail": "Entrez l'e-mail de la personne âgée",
+  
+  "noEldFound": "aucune personne âgée trouvée avec l'email fourni",
+
+  "view": "voir",
+
+  "spo2": "SPO2",
+
+  "eldSuccAdd": "Ancien ajouté avec succès",
+
+  "noEld": "vous n'avez pas encore de personnes âgées",
+
+  "thresh1": "Seuil 1",
+
+  "thresh2": "Seuil 2",
+
+  "setNewThresh": "Définir un nouveau seuil",
+
+  "lowerBnd": "Limite inférieure",
+
+  "upperBnd": "Limite supérieure",
+
+  "entLowbnd": "Entrez la limite inférieure",
+
+  "entUpBnd": "Entrez la limite supérieure",
+
+  "save": "Enregistrer",
+
+  "extrhighbpm": "DANGER ! Un BPM extrêmement élevé a été détecté pour votre patient : {elderName}",
+
+  "dangeralrt": "Alerte de danger",
+
+  "eldloc":"Lieu pour personnes âgées",
+
+  "extrlowbpm": "DANGER ! Un BPM extrêmement bas a été détecté pour votre patient : {elderName}",
+
+  "anombpm": "Une anomalie a été détectée pour votre patient : {elderName}",
+
+  "threshalrt": "Alerte de seuil",
+
+  "extrlowspo2": "DANGER ! Une SPO2 extrêmement faible a été détectée pour votre patient : {elderName}",
+
+  "elddel": "Ancien supprimé avec succès.",
+
+  "eldfaildel": "Échec de la suppression de l'ancien. Veuillez réessayer.",
+
+  "deviceid": "Identifiant de l'appareil",
+
+  "submit": "Soumettre",
+
+  "err": "Erreur : {err}",
+
+  "devicednex": "l'identifiant de l'appareil n'existe pas.",
+
+  "locservdis": "Les services de localisation sont désactivés",
+
+  "locperden": "Autorisation de localisation refusée",
+
+  "locperdenperma": "Les autorisations de localisation sont définitivement refusées",
+
+  "callamb": "appeler une ambulance",
+
+  "threshspo2": "seuil spo2",
+
+  "spo2thresh": "seuil spo2",
+
+  "erroc": "Une erreur s'est produite",
+
+  "sendresem": "Envoyer un e-mail de réinitialisation",
+
+  "documnotfound": "Le document n'existe pas dans la base de données",
+
+  "nouserfound": "Aucun utilisateur trouvé pour cet e-mail.",
+
+  "wrongpass": "Mot de passe erroné fourni pour cet utilisateur.",
+
+  "otpver": "OTP est vérifié",
+
+  "otpinval": "OTP invalide",
+  
+  "confirm": "Confirmer",
+
+  "emailotp": "E-mail OTP",
+
+  "otpsent": "OTP a été envoyé",
+
+  "otpfail": "Oups, l'envoi OTP a échoué",
+
+  "slctdate": "Sélectionner une date",
+
+  "nodataavl": "Aucune donnée disponible pour la date sélectionnée.",
+
+  "welcheadtxt": "Surveillez votre bien-être",
+
+  "welcdiscptxt": "Prenez soin de votre santé et restez connecté avec vos proches.",
+
+  "medtime": "il est temps de prendre vos médicaments : {med}"
+
+}
